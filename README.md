@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm **Avishekh**, the Head of AI at [Naamche](https://naamche.com), where I work on building AI systems for the mortgage and real estate space. I’ve been working with AI for 6+ years, taking ideas from scratch to production, and I enjoy the challenge of making systems reliable and practical.
+I'm **Avishekh**, I'm a GenAI Engineer at [liftoff](https://liftoff.io/), where I work on building AI applications for the adtech space. I’ve been working with AI for 6+ years, taking ideas from scratch to production, and I enjoy the challenge of making systems reliable and practical.
 
 I'm open to collaborating on interesting projects — feel free to reach out if you'd like to chat.
 
